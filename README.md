@@ -1,21 +1,18 @@
-# shop.api
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+## Run project
+
+- Install dependencies
 ```
-npm run serve
+npm i
 ```
 
-### Compiles and minifies for production
+- Build project
 ```
-npm run build
+tsc
 ```
 
-### Lints and fixes files
+- Run application
 ```
-npm run lint
+node index.js
 ```
